@@ -12,14 +12,6 @@ def get_spark_app_config():
     return spark_conf
 
 
-def load_csv_df(spark):
-    return spark.read \
-        .format("csv") \
-        .option("header", "true") \
-        .option("inferSchema", "true") \
-        .load("data/flights.csv")
-
-
 def load_movie_csv_df(spark):
     return spark.read \
         .format("csv") \
@@ -29,13 +21,4 @@ def load_movie_csv_df(spark):
         .load("/home/ashish/ml-20m/movies.csv")
 
 
-def load_json_df(spark):
-    return spark.read \
-        .format("json") \
-        .load("data/flights.json")
 
-
-def load_parquet_df(spark):
-    return spark.read \
-        .format("parquet") \
-        .load("data/flights.parquet")

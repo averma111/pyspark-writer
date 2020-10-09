@@ -1,3 +1,7 @@
-20/10/09 02:32:11 INFO <aap-dataframes local-1602235930597>: Starting the pyspark application
-20/10/09 02:32:13 INFO <aap-dataframes local-1602235930597>: Csv Schema: struct<movieId:int,title:string,genres:string>
-20/10/09 02:32:13 INFO <aap-dataframes local-1602235930597>: Completing the pyspark application
+20/10/09 12:56:16 INFO <aap-dataframes local-1602273375193>: Starting the pyspark application
+20/10/09 12:56:16 INFO <aap-dataframes local-1602273375193>: Reading data from csv files
+20/10/09 12:56:18 INFO <aap-dataframes local-1602273375193>: Csv Schema: struct<movieId:int,title:string,genres:string>
+20/10/09 12:56:18 INFO <aap-dataframes local-1602273375193>: Writing avro data to output path
+20/10/09 12:56:18 INFO <aap-dataframes local-1602273375193>: Number of partitions before :1
+20/10/09 12:56:20 INFO <aap-dataframes local-1602273375193>: Number of partitions after :5
+20/10/09 12:56:30 INFO <aap-dataframes local-1602273375193>: Completing the pyspark application
