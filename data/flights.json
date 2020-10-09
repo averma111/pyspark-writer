@@ -1,0 +1,773 @@
+[
+{
+  "Id": 2,
+ "DirectorateId": 31,
+  "Name": "MSP"
+},
+{
+"Id": 3,
+"DirectorateId" 32,
+"Name": "MSP"
+},
+{
+"Id": 4,
+"DirectorateId" 33,
+"Name": "MSP"
+},
+{
+"Id": 5,
+"DirectorateId" 34,
+"Name": "MSP"
+},
+{
+"Id": 6,
+"DirectorateId" 35,
+"Name": "MSP"
+},
+{
+"Id": 7,
+"DirectorateId" 2,
+"Name": "APS"
+},
+{
+"Id": 8,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Programmes)"
+},
+{
+"Id": 9,
+"DirectorateId" 55,
+"Name": "Broadcasting"
+},
+{
+"Id": 10,
+"DirectorateId" 52,
+"Name": "Digital Services Group (Head's Office)"
+},
+{
+"Id": 11,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Admin. Support)"
+},
+{
+"Id": 12,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Applications)"
+},
+{
+"Id": 13,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Delivery)"
+},
+{
+"Id": 14,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Development)"
+},
+{
+"Id": 15,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Infrastructure)"
+},
+{
+"Id": 16,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Strategy)"
+},
+{
+"Id": 17,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Dev. Business Change)"
+},
+{
+"Id": 18,
+"DirectorateId" 52,
+"Name": "Business Information Technology Office (Dev. Projects)"
+},
+{
+"Id": 19,
+"DirectorateId" 55,
+"Name": "Chamber Office (Business Team)"
+},
+{
+"Id": 20,
+"DirectorateId" 55,
+"Name": "Chamber Office (Chamber Desk)"
+},
+{
+"Id": 21,
+"DirectorateId" 55,
+"Name": "Chamber Office (Delegated Powers & Law Reform Committee)"
+},
+{
+"Id": 22,
+"DirectorateId" 55,
+"Name": "Chamber Office (Legislation)"
+},
+{
+"Id": 23,
+"DirectorateId" 55,
+"Name": "Chamber Office (Non-Government Bills Unit)"
+},
+{
+"Id": 24,
+"DirectorateId" 55,
+"Name": "Chamber Office (Non-Government Bills Unit/Private Bills Unit)"
+},
+{
+"Id": 25,
+"DirectorateId" 55,
+"Name": "Chamber, Reporting and Broadcasting (Head's Office)"
+},
+{
+"Id": 26,
+"DirectorateId" 55,
+"Name": "Official Report"
+},
+{
+"Id": 27,
+"DirectorateId" 7,
+"Name": "Assistant Chief Executive's Office"
+},
+{
+"Id": 28,
+"DirectorateId" 54,
+"Name": "Internal Audit"
+},
+{
+"Id": 29,
+"DirectorateId" 7,
+"Name": "Office of the Clerk/Chief Executive"
+},
+{
+"Id": 30,
+"DirectorateId" 7,
+"Name": "Solicitor to the Scottish Parliament"
+},
+{
+"Id": 31,
+"DirectorateId" 54,
+"Name": "Solicitor's Office"
+},
+{
+"Id": 32,
+"DirectorateId" 8,
+"Name": "Ethical Standards in Public Life in Scotland"
+},
+{
+"Id": 33,
+"DirectorateId" 8,
+"Name": "The Scottish Parliamentary Standards Commissioner"
+},
+{
+"Id": 34,
+"DirectorateId" 9,
+"Name": "Committee"
+},
+{
+"Id": 35,
+"DirectorateId" 10,
+"Name": "Committee Office (Local Govt & Regeneration & Educatn & Culture)"
+},
+{
+"Id": 36,
+"DirectorateId" 10,
+"Name": "Committee Office (Public Petitions)"
+},
+{
+"Id": 37,
+"DirectorateId" 10,
+"Name": "Committee Office (Standards, Procedures and Public Appointments)"
+},
+{
+"Id": 38,
+"DirectorateId" 10,
+"Name": "Committee Office (Welfare Reform)"
+},
+{
+"Id": 39,
+"DirectorateId" 10,
+"Name": "Outreach Services"
+},
+{
+"Id": 40,
+"DirectorateId" 10,
+"Name": "Public Affairs (Head's Office)"
+},
+{
+"Id": 41,
+"DirectorateId" 10,
+"Name": "Committee Office (Economy, Energy and Tourism)"
+},
+{
+"Id": 42,
+"DirectorateId" 10,
+"Name": "Committee Office (Education and Culture)"
+},
+{
+"Id": 43,
+"DirectorateId" 10,
+"Name": "Committee Office (Equal Opportunities)"
+},
+{
+"Id": 44,
+"DirectorateId" 10,
+"Name": "Committee Office (European and External Relations)"
+},
+{
+"Id": 45,
+"DirectorateId" 10,
+"Name": "Committee Office (Finance)"
+},
+{
+"Id": 46,
+"DirectorateId" 10,
+"Name": "Committee Office (Health and Sport)"
+},
+{
+"Id": 47,
+"DirectorateId" 10,
+"Name": "Committee Office (Infrastructure and Capital Investment)"
+},
+{
+"Id": 48,
+"DirectorateId" 10,
+"Name": "Committee Office (Justice)"
+},
+{
+"Id": 49,
+"DirectorateId" 10,
+"Name": "Committee Office (Local Government and Regeneration)"
+},
+{
+"Id": 50,
+"DirectorateId" 10,
+"Name": "Committee Office (Public Audit)"
+},
+{
+"Id": 51,
+"DirectorateId" 10,
+"Name": "Committee Office (Rural Affairs, Climate Change and Environment)"
+},
+{
+"Id": 52,
+"DirectorateId" 10,
+"Name": "Committees and Outreach (Head's Office)"
+},
+{
+"Id": 53,
+"DirectorateId" 50,
+"Name": "Research, Communications & Public Engagement (Head's Office)"
+},
+{
+"Id": 55,
+"DirectorateId" 50,
+"Name": "Web and Social Media"
+},
+{
+"Id": 56,
+"DirectorateId" 50,
+"Name": "Media Relations Office"
+},
+{
+"Id": 57,
+"DirectorateId" 50,
+"Name": "Public Information and Publications"
+},
+{
+"Id": 58,
+"DirectorateId" 50,
+"Name": "SPICe (Financial Scrutiny and Resources)"
+},
+{
+"Id": 59,
+"DirectorateId" 50,
+"Name": "SPICe (Research and Enquiries)"
+},
+{
+"Id": 60,
+"DirectorateId" 50,
+"Name": "SPICe (Research and Library)"
+},
+{
+"Id": 62,
+"DirectorateId" 50,
+"Name": "Visitor Services"
+},
+{
+"Id": 73,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Services)"
+},
+{
+"Id": 77,
+"DirectorateId" 54,
+"Name": "Procurement"
+},
+{
+"Id": 78,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Organisational Development)"
+},
+{
+"Id": 79,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Pay and Pensions)"
+},
+{
+"Id": 80,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Systems Team)"
+},
+{
+"Id": 81,
+"DirectorateId" 61,
+"Name": "Security"
+},
+{
+"Id": 82,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Head's Office)"
+},
+{
+"Id": 83,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Parliament Doctor/Nurse)"
+},
+{
+"Id": 84,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Services Team)"
+},
+{
+"Id": 85,
+"DirectorateId" 18,
+"Name": "UK and International Relations Office"
+},
+{
+"Id": 86,
+"DirectorateId" 18,
+"Name": "MSP"
+},
+{
+"Id": 87,
+"DirectorateId" 18,
+"Name": "Office of the Pres"Id"ing Officer"
+},
+{
+"Id": 88,
+"DirectorateId" 21,
+"Name": "Scottish Parliament and Business Exchange"
+},
+{
+"Id": 90,
+"DirectorateId" 24,
+"Name": "Strategy and Change Management Office (SCMO)"
+},
+{
+"Id": 91,
+"DirectorateId" 25,
+"Name": "MSP"
+},
+{
+"Id": 92,
+"DirectorateId" 25,
+"Name": "MSP Staff"
+},
+{
+"Id": 93,
+"DirectorateId" 26,
+"Name": "MSP"
+},
+{
+"Id": 94,
+"DirectorateId" 26,
+"Name": "MSP Staff"
+},
+{
+"Id": 95,
+"DirectorateId" 27,
+"Name": "MSP"
+},
+{
+"Id": 96,
+"DirectorateId" 27,
+"Name": "MSP Staff"
+},
+{
+"Id": 97,
+"DirectorateId" 28,
+"Name": "MSP"
+},
+{
+"Id": 98,
+"DirectorateId" 28,
+"Name": "MSP Staff"
+},
+{
+"Id": 99,
+"DirectorateId" 29,
+"Name": "MSP"
+},
+{
+"Id": 100,
+"DirectorateId" 29,
+"Name": "MSP Staff"
+},
+{
+"Id": 101,
+"DirectorateId" 30,
+"Name": "MSP"
+},
+{
+"Id": 102,
+"DirectorateId" 30,
+"Name": "MSP Staff"
+},
+{
+"Id": 103,
+"DirectorateId" 36,
+"Name": "BBC"
+},
+{
+"Id": 104,
+"DirectorateId" 36,
+"Name": "Communications and Research"
+},
+{
+"Id": 105,
+"DirectorateId" 36,
+"Name": "UK and International Relations Unit"
+},
+{
+"Id": 106,
+"DirectorateId" 37,
+"Name": "Bray Leino"
+},
+{
+"Id": 107,
+"DirectorateId" 38,
+"Name": "Camerons"
+},
+{
+"Id": 109,
+"DirectorateId" 40,
+"Name": "Crown"
+},
+{
+"Id": 110,
+"DirectorateId" 41,
+"Name": "Kelly Care"
+},
+{
+"Id": 111,
+"DirectorateId" 42,
+"Name": "Logica"
+},
+{
+"Id": 112,
+"DirectorateId" 43,
+"Name": "Mitie Olscot"
+},
+{
+"Id": 113,
+"DirectorateId" 44,
+"Name": "Norland"
+},
+{
+"Id": 114,
+"DirectorateId" 45,
+"Name": "Police Unit"
+},
+{
+"Id": 115,
+"DirectorateId" 46,
+"Name": "Post Office"
+},
+{
+"Id": 116,
+"DirectorateId" 47,
+"Name": "RedWeb"
+},
+{
+"Id": 117,
+"DirectorateId" 48,
+"Name": "RR Donnelley"
+},
+{
+"Id": 118,
+"DirectorateId" 49,
+"Name": "Sodexo"
+},
+{
+"Id": 119,
+"DirectorateId" 52,
+"Name": "Project and Programme"
+},
+{
+"Id": 121,
+"DirectorateId" 56,
+"Name": "HR and FM Group (Head's Office)"
+},
+{
+"Id": 122,
+"DirectorateId" 62,
+"Name": "Business IT"
+},
+{
+"Id": 123,
+"DirectorateId" 55,
+"Name": "Chamber Office (Standards, Procedures and Public Appointments)"
+},
+{
+"Id": 124,
+"DirectorateId" 10,
+"Name": "Committee (Economy, Jobs and Fair Work)"
+},
+{
+"Id": 125,
+"DirectorateId" 10,
+"Name": "Committee (Social Security)"
+},
+{
+"Id": 126,
+"DirectorateId" 10,
+"Name": "Committee (Rural Economy and Connectivity)"
+},
+{
+"Id": 127,
+"DirectorateId" 10,
+"Name": "Committee (Local Government and Communities)"
+},
+{
+"Id": 128,
+"DirectorateId" 10,
+"Name": "Committee (Environment, Climate Change and Land Reform)"
+},
+{
+"Id": 129,
+"DirectorateId" 10,
+"Name": "Committee (Educations and Skills)"
+},
+{
+"Id": 130,
+"DirectorateId" 10,
+"Name": "Committee Office (Delegated Powers & Law Reform)"
+},
+{
+"Id": 131,
+"DirectorateId" 10,
+"Name": "Committee Office (Devolution (Further Powers))"
+},
+{
+"Id": 132,
+"DirectorateId" 18,
+"Name": "International Relations Office"
+},
+{
+"Id": 133,
+"DirectorateId" 8,
+"Name": "The Standards Commission for Scotland"
+},
+{
+"Id": 134,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Strategy and Policy Team)"
+},
+{
+"Id": 135,
+"DirectorateId" 56,
+"Name": "HR and FM Group Office (Change Programme Team)"
+},
+{
+"Id": 137,
+"DirectorateId" 58,
+"Name": "Lobbying Registrar"
+},
+{
+"Id": 138,
+"DirectorateId" 50,
+"Name": "SPICe (The Enquiries and Collections Team)"
+},
+{
+"Id": 141,
+"DirectorateId" 50,
+"Name": "Public Information and Resources"
+},
+{
+"Id": 142,
+"DirectorateId" 50,
+"Name": "Committee Engagement Unit"
+},
+{
+"Id": 143,
+"DirectorateId" 10,
+"Name": "Committee Engagement Unit"
+},
+{
+"Id": 145,
+"DirectorateId" 60,
+"Name": "Allowances"
+},
+{
+"Id": 146,
+"DirectorateId" 60,
+"Name": "Finance"
+},
+{
+"Id": 147,
+"DirectorateId" 10,
+"Name": "Economy, Energy and Fair Work"
+},
+{
+"Id": 148,
+"DirectorateId" 62,
+"Name": "HR and Digital Services Group (Head's Office)"
+},
+{
+"Id": 149,
+"DirectorateId" 62,
+"Name": "HR and Digital Services Group (Change Programme Team)"
+},
+{
+"Id": 150,
+"DirectorateId" 62,
+"Name": "HR and Digital Services Group (HR Services)"
+},
+{
+"Id": 151,
+"DirectorateId" 62,
+"Name": "HR and Digital Services Group (Pay and Pensions)"
+},
+{
+"Id": 152,
+"DirectorateId" 62,
+"Name": "HR and Digital Services Group (Learning, Development and Change)"
+},
+{
+"Id": 153,
+"DirectorateId" 62,
+"Name": "HR and Digital Services Group (Diversity and Inclusion)"
+},
+{
+"Id": 154,
+"DirectorateId" 62,
+"Name": "Business Information Technology Office (Admin. Support)"
+},
+{
+"Id": 155,
+"DirectorateId" 62,
+"Name": "Business Information Technology Office (Applications)"
+},
+{
+"Id": 156,
+"DirectorateId" 62,
+"Name": "Business Information Technology Office (Dev. Business Change)"
+},
+{
+"Id": 157,
+"DirectorateId" 61,
+"Name": "Procurement, Business Continuity and Security"
+},
+{
+"Id": 158,
+"DirectorateId" 63,
+"Name": "Project and Programme Office"
+},
+{
+"Id": 159,
+"DirectorateId" 62,
+"Name": "Business Information Technology Office (Infrastructure)"
+},
+{
+"Id": 160,
+"DirectorateId" 63,
+"Name": "Events and Exhibitions"
+},
+{
+"Id": 161,
+"DirectorateId" 62,
+"Name": "Business Information Technology Office (Programmes)"
+},
+{
+"Id": 162,
+"DirectorateId" 62,
+"Name": "Information Management and Governance Team"
+},
+{
+"Id": 163,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Mail Room)"
+},
+{
+"Id": 164,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (MSP Group)"
+},
+{
+"Id": 165,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Building Maintenance)"
+},
+{
+"Id": 166,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Environmental Performance)"
+},
+{
+"Id": 167,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Finance, Performance Management)"
+},
+{
+"Id": 168,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Fire Safety)"
+},
+{
+"Id": 169,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Health and Safety)"
+},
+{
+"Id": 170,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Helpdesk)"
+},
+{
+"Id": 171,
+"DirectorateId" 63,
+"Name": "Facilities Management Office (Holyrood Project Team)"
+},
+{
+"Id": 172,
+"DirectorateId" 62,
+"Name": "Business Information Technology Office (Dev. Projects)"
+},
+{
+"Id": 173,
+"DirectorateId" 62,
+"Name": "Business Information Technology Office (Development)"
+},
+{
+"Id": 174,
+"DirectorateId" 63,
+"Name": "Visitor Services"
+},
+{
+"Id": 175,
+"DirectorateId" 61,
+"Name": "Procurement"
+},
+{
+"Id": 176,
+"DirectorateId" 10,
+"Name": "Committee Office (Economy, Energy and Fair Work)"
+},
+{
+"Id": 177,
+"DirectorateId" 10,
+"Name": "Committee Office (Rural Economy and Connectivity)"
+}
+}
+]
