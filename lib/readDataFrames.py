@@ -12,13 +12,13 @@ def get_spark_app_config():
     return spark_conf
 
 
-def load_movie_csv_df(spark):
+def load_rating_csv_df(spark):
     return spark.read \
         .format("csv") \
         .option("header", "true") \
         .schema(objectSchemaMovie()) \
         .option("mode", "FAILFAST") \
-        .load("/home/ashish/ml-20m/movies.csv")
+        .load("source/movies.csv")
 
 
 

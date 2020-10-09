@@ -12,19 +12,12 @@ def get_spark_app_config():
     return spark_conf
 
 
-def write_movie_df(dataFrame):
-    dataFrame.write \
-        .format("avro") \
-        .mode("overwrite") \
-        .option("path", "target/avro") \
-        .save()
+def write_spark_managed_table(spark,dataFrame):
+    spark.sql("CREATE DATABASE IF NOT EXISTS RATINGS_DB")
+    spark.catalog.setCurrentDatabase("RATINGS_DB")
 
-
-def write_movie_json_df(dataFrame):
     dataFrame.write \
-        .format("json") \
         .mode("overwrite") \
-        .option("path", "target/json/") \
-        .partitionBy("genres") \
-        .option("maxRecordsPerFile", "4000") \
-        .save()
+        .bucketBy(5, "genres") \
+        .sortBy("genres") \
+        .saveAsTable("Ratings_Tbl")
